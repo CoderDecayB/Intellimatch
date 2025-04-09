@@ -1,0 +1,16 @@
+<svg width="740" height="740" viewBox="0 0 740 740" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="740" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4B6FFF"/>
+      <stop offset="1" stop-color="#6271F9"/>
+    </linearGradient>
+  </defs>
+  <rect width="740" height="740" rx="148" fill="url(#bgGradient)" />
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, sans-serif"
+        font-size="80"
+        fill="white"
+        font-weight="bold">
+    IntelliMatch
+  </text>
+</svg>
